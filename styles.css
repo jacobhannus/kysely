@@ -1,0 +1,46 @@
+body {
+    background-color: snow;
+    padding: 1rem;
+    font-family: "Comic Sans MS";
+}
+
+header {
+  text-align: center;
+  color: orange;
+}
+
+#kysymys {
+    background-color: lightgreen;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+#nappi {
+  text-align: center;
+}
+
+#seuraava {
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 8px;
+  border-color: lightgrey;
+  border-width: 1px;
+}
+
+#seuraava:hover {
+  background-color: turquoise;
+}
+
+.vaihtoehto {
+    background-color: lightblue;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.vaihtoehto:hover {
+    background-color: lightskyblue;
+}
